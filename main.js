@@ -5,7 +5,7 @@ exports.handler = async function(event, context) {
     const email_to_add = event.queryStringParameters.email;
 
     // Chemin vers le fichier de clé du compte de service
-    const keyFile = 'C:\\Users\\Joviale\\IdeaProjects\\Newsletter\\newsletter-410220-5dc4f904e977.json';
+    const keyFile = 'newsletter-410220-5dc4f904e977.json';
 
     // Construire le service d'authentification
     const auth = new google.auth.GoogleAuth({
