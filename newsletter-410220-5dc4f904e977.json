@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "newsletter-410220",
+  "private_key_id": "5dc4f904e977c490eff51e94647fe9d30f74a821",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCZCMFFtosvIsFy\nWSGgH+49ABXt95faawoJS1tg29thq+qEZcyrrDpJKb5u00tPHFog+frUzpnZ3mS2\n6BsaKGcGHVyOWYGR0HxYra7TTIi/sLHPccWJ782c/2U5P8DsM/P+3Ex23Eg2tm+9\nmfi3L6dpHaUFKSL4Wpt1Q9SEmZuiGJz7m5PC6OB+nIvuG4d7zejuVe6qCVntJFyy\ndH+lDntem/12eb38kT/a1nTzAbkLRNmaiKhrutpGTr2xlxF8d58PKze6psbg0bZv\nwH0t+OGAQoSEFiu44Rc/V8wYHyShnoimS2AX2KkrNNDTR5wYaSnZU+hUNxcI5sb8\n3ayQ4mKfAgMBAAECggEAKNOZHEwS3cRb73Gv8tQR7twy/YVsUaz0xH4CJtkAshH3\nQtMVw0bzVcl5MH/WO4jI0rteG5/yk5ktLU7GzDezJIJ4ytE+K/R+9/l+BokIgntV\nNI6ZsK71H8lS6+8CPQGvOnLzQ1KJQW9yaBbHr7da5kQuXi4XUkJ57tLlw2pnhtq4\nfsjUFCLcJ9DSG9sULeD3XBhKF97TNZCB/drNUYA8bhypXZG6Th4vsBAWIA+DFT7J\n0znvesrPeDYTVyAjp5dEcWFhJFiEVUlRdjWmDIpRcIxaTORRtBltldTnI3890mrj\nExt3RSR9p/Rx31pDM5tj85febdLwpINNIkvBN7jX4QKBgQDL27VuoUw/IubWsxJd\nJTeFxQZ4na/kSL4KD5h7m9TO4k60zWzfkjGGqBa679OCBBao3SP50CAD69z1sZPM\nIpXxrZfTUKxa0L3RjJkPiEMo7bEnchcJLQpJ096qRdFjFRHa6drAm8FUh/GdUpr+\n4UP0+G4LNJ8o8wfRIruAnXPjVQKBgQDALSytZ46v2Aj2lRiCeANOLbVHTwt17egO\nmrT2j52e7AiIaHaV6SqEdEomIGHEZlNlAuq0RzvOovzE79sNezjxXnHpv2eGKFvz\na0dYD/JPSL8BN7wJah3hDQaAKx3FCe7RBfbEX6FzfxhrfxdJjZyw/6YNxLwWvVEz\nvCI8xH0WIwKBgQDKMBc6qm/dDti0iNbl20u+OTO53WveluclQ2KQ9nWS25IEcNpS\nw8SrMXuZ3NOCWFvBD9PmqS2Xtg9o/77+8C6XjPzQcWsAh5g8hZ4pcZRqu5TA8r82\nMp3Jq4Fkj+qkwvj6joaQEesl088nog5oTTQBe4RpSL+y9ZgDLNebMI8IIQKBgBR+\nfM49RfUwt7v8KHH5dHjI3RUus80uwtmT3AqTRD7ncv2BDmxsQjF/6UxplaOJOgmC\npx70nccqkIQ8BANLCcaLyOAhnlurQCsUXLZidPfJjT0HAZGLdIZEilXuwyz5IzO9\nTBSjEier/SGxmv0oEfa6PK4pNdnC9L7sqEYMuj47AoGBAJD+l0jtF06YPFqSlMc3\nWz52/FDF7DsAy/saItV3tV8T5J06WEMo425SftODOdU8hBigTye4J6qG2EP+vaz1\nPafnuhvpmc4r/avuuqV8hfMjhCTfvQtkqpUEhb3bs6AMHmeGPw3Naei8kK/Nl7Pw\n6/pnI+gGddErUP+Eh91qrT2m\n-----END PRIVATE KEY-----\n",
+  "client_email": "newsletter-one-piece-phoenix@newsletter-410220.iam.gserviceaccount.com",
+  "client_id": "116684292205670894573",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/newsletter-one-piece-phoenix%40newsletter-410220.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
